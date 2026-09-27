@@ -13,13 +13,13 @@ class Config:
 
      #agent configration
 
-     MAX_ITTRATION=3
+     MAX_ITERATION=10
 
      TEMPERATURE= 0.1
 
      #search configration
 
-     SEARCH_REASULTS_LIMITS = 2
+     SEARCH_RESULTS_LIMITS = 2
 
      #UI configration 
 
