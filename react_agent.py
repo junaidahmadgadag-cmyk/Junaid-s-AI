@@ -21,7 +21,7 @@ class ReactAgent:
         self.model = ChatGoogleGenerativeAI(
             model=Config.GEMINI_MODEL,
             google_api_key=Config.GEMINI_API_KEY,
-            temperature=0.2,
+            temperature=0.1,
         )
 
         # Give Gemini access to our tools
