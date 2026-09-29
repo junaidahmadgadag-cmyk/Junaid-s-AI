@@ -13,7 +13,7 @@ class Config:
 
      #agent configration
 
-     MAX_ITERATION=10
+     MAX_ITERATIONS=5
 
      TEMPERATURE= 0.1
 
